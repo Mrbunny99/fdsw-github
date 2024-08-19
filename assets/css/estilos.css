@@ -8,8 +8,10 @@ body {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center; /* Cambiado de left a center */
+  background-color: #000; /* Añadido color de respaldo */
 }
+
 
 /* Esta es la seccion de mis trabajos */
 
