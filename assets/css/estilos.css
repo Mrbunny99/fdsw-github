@@ -2,7 +2,7 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Hero Section */
+/* Esta es la seccion del heroe */
 
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
@@ -11,7 +11,7 @@ body {
   background-position: left;
 }
 
-/* Mis trabajos */
+/* Esta es la seccion de mis trabajos */
 
 #Mis-trabajos .image-top {
   height: 250px;
@@ -20,7 +20,9 @@ body {
   background-position: center;
 }
 
-/* Contacto */
+/* Esta es la seccion de contacto
+aqui se puede editar el tamaño del 
+tipo de letra y el color de la letra */
 
 #Contacto form label {
   font-weight: 700;
